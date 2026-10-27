@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="laser-cutter-test.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="8"
+     inkscape:cx="-15"
+     inkscape:cy="13.3125"
+     inkscape:window-width="1528"
+     inkscape:window-height="1188"
+     inkscape:window-x="292"
+     inkscape:window-y="169"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;-inkscape-stroke:hairline"
+       id="rect1"
+       width="10"
+       height="10"
+       x="0"
+       y="0"
+       ry="1.593516"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#00ff00;stroke:#00ff00;stroke-width:0.264583;-inkscape-stroke:hairline"
+       x="3.9147949"
+       y="6.1541929"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#00ff00;stroke:#00ff00;stroke-width:0.264583"
+         x="3.9147949"
+         y="6.1541929">A</tspan></text>
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264584;-inkscape-stroke:hairline"
+       id="path1"
+       cx="5"
+       cy="5"
+       r="3.5" />
+  </g>
+</svg>
