@@ -1,3 +1,9 @@
+# Design
+
+Front:
+Back:
+Sleeve:
+
 # Materials
 
 ## Option 1
@@ -49,4 +55,6 @@ Done on some cheap 0.4mm chipboard.
 
 ### Observations
 
-There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
+* There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
+
+* The threshold of the arch consists of two long horizontal lines spanning almost the whole width. This weakens the paper. The final product will not be as bad. But I decided to replace the threshold with a shadow to signify that she's grounded.
