@@ -30,3 +30,23 @@ Three cardstock sheets sandwiched together.
 * Without moving the jig, put the bookmark in the hole, back side up.
 * Engrave the back side.
   
+# Trial runs
+
+## 1. Chip board
+
+Done on some cheap 0.4mm chipboard. 
+
+### Settings
+
+* #00FF00, Engraving: P100 S100
+* #0000FF, Marking: P10 S60
+* #FF0000, Cutting: P40 S50
+
+### Results:
+
+![back](IMG_0710.jpeg)
+![front](IMG_0711.jpeg)
+
+### Observations
+
+There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
