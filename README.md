@@ -4,15 +4,17 @@ Front:
 Back:
 Sleeve:
 
-# Materials
+# Bookmarks
 
-## Option 1
+## Materials
+
+### Option 1
 Single layer of [black 400 GSM cardstock](https://www.amazon.com/dp/B0G6455XRB).
 
-## Option 2
+### Option 2
 [Maple veneer](https://www.etsy.com/listing/1657356808/cricut-maker-explore-thin-wood-veneer).
 
-## Option 3
+### Option 3
 Three cardstock sheets sandwiched together.
 
 * Front and back: [Navy Blue 225 gsm](https://cardstock-warehouse.com/products/navy-blue-lessebo-colours-cardstock)
@@ -38,11 +40,11 @@ Three cardstock sheets sandwiched together.
   
 # Trial runs
 
-## 1. Chip board
+## Chip board, bookmark, 40W cutter
 
 Done on some cheap 0.4mm chipboard. 
 
-### Settings
+### Settings (40W)
 
 * #00FF00, Engraving: P100 S100
 * #0000FF, Marking: P10 S60
@@ -58,3 +60,43 @@ Done on some cheap 0.4mm chipboard.
 * There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
 
 * The threshold of the arch consists of two long horizontal lines spanning almost the whole width. This weakens the paper. The final product will not be as bad. But I decided to replace the threshold with a shadow to signify that she's grounded.
+
+## Cardstock
+
+Found it in the makerspace. So I decided to give it a try. It's about 0.38 mm in thickness. 
+
+### Settings (60W)
+
+* #00FF00, Engraving: P50, S100 
+* #0000FF, Marking: P6, S100
+* #FF0000, Cutting: P10, S35
+
+# Sleeves
+
+Mark the fold lines to avoid cracking and to provide a precise folding position.
+
+## Materials
+
+### Option 1
+Black 400 GSM cardstock. 
+
+#### Settings (60W)
+* #0000FF, Marking: P8 S100
+* #FF0000, Cutting: P30 S50
+
+#### Observations
+* The cardstock is too thick to fold. If I mark too deep, I risk the flap falling off. If I mark too shallow, it'd be too hard to fold. When it does, it gets fuzzy at the fold and it cracks.
+* It's also too stiff. It's impossible to open and insert the bookmarks.
+
+### Option 2
+I found some black sheets in the makerspace. They are about 0.23mm in thickness. So I gave it a try.
+
+#### Settings (60W)
+* #0000FF, Marking: P4 S 100
+* #FF0000, Cutting: S18 P 50
+
+#### Observations
+* The thickness seems to be just right
+* The paper itself is not dyed through. The cut edges show a little charring
+
+### Option 3
