@@ -26,14 +26,14 @@
      showguides="true"
      inkscape:lockguides="false"
      inkscape:zoom="0.9375604"
-     inkscape:cx="151.45691"
-     inkscape:cy="412.77341"
+     inkscape:cx="322.64588"
+     inkscape:cy="242.11773"
      inkscape:window-width="1728"
      inkscape:window-height="1021"
-     inkscape:window-x="1"
+     inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g11" />
   <defs
      id="defs1" />
   <g
@@ -56,12 +56,12 @@
          sodipodi:type="arc"
          sodipodi:cx="40"
          sodipodi:cy="0"
-         sodipodi:rx="8"
-         sodipodi:ry="8"
+         sodipodi:rx="10"
+         sodipodi:ry="10"
          sodipodi:start="0"
          sodipodi:end="3.1415927"
          sodipodi:arc-type="slice"
-         d="m 48,0 a 8,8 0 0 1 -4,6.9282033 8,8 0 0 1 -8,-2e-7 A 8,8 0 0 1 32,0 h 8 z" />
+         d="m 50,0 a 10,10 0 0 1 -5,8.6602541 10,10 0 0 1 -10,-2e-7 A 10,10 0 0 1 30,0 h 10 z" />
       <path
          id="cut"
          fill-rule="evenodd"
@@ -77,13 +77,13 @@
          id="path11-1"
          sodipodi:type="arc"
          sodipodi:cx="119.2369"
-         sodipodi:cy="-6.1853029e-07"
-         sodipodi:rx="8"
-         sodipodi:ry="8"
+         sodipodi:cy="-7.7316287e-07"
+         sodipodi:rx="9.966217"
+         sodipodi:ry="10"
          sodipodi:start="0"
          sodipodi:end="3.1415927"
          sodipodi:arc-type="slice"
-         d="m 127.2369,-6.1853029e-7 a 8,8 0 0 1 -4,6.92820331853029 8,8 0 0 1 -8,-2e-7 8,8 0 0 1 -4,-6.92820311853029 h 8 z" />
+         d="M 129.20312,-7.7316287e-7 A 9.966217,10 0 0 1 124.22001,8.6602533 a 9.966217,10 0 0 1 -9.96622,-2e-7 A 9.966217,10 0 0 1 109.27068,-7.7316287e-7 h 9.96622 z" />
       <rect
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264136;-inkscape-stroke:hairline"
          id="rect2"
