@@ -6,6 +6,7 @@ Use a single sheet of material, engrave and mark the graphics on both sides, and
 
 ### Material options
 * Single layer of [cream 400 GSM cardstock](https://www.amazon.com/dp/B0FJR3CL9V).
+* Double layer of the same cardstock.
 * [Maple veneer](https://www.etsy.com/listing/1657356808/cricut-maker-explore-thin-wood-veneer).
 
 ### Cutting alignment
@@ -34,13 +35,22 @@ Done on some cheap 0.4mm chipboard.
 * There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
 * The threshold of the arch consists of two long horizontal lines spanning almost the whole width. This weakens the paper. The final product will not be as bad. But I decided to replace the threshold with a shadow to signify that she's grounded.
 
-#### Cardstock
+#### Scrap cardstock
 Found it in the makerspace. So I decided to give it a try. It's about 0.38 mm in thickness. 
 
 ##### Settings (60W)
 * #00FF00, Engraving: P50, S100 
 * #0000FF, Marking: P6, S100
 * #FF0000, Cutting: P10, S35
+
+#### Two layers of 400 GSM cardstock
+
+I experimented with a single sheet. And I found it a little too thin. So I tried glueing two sheets together.
+
+##### Settings (60W)
+* #00FF00, Engraving: P50, S100 
+* #0000FF, Marking: P8, S100
+* #FF0000, Cutting: P25, S100: *Two passes*
 
 # Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
@@ -69,7 +79,6 @@ I cut two registration holes to help visually align the three sheets; I also mar
 * Wait for 30-60 seconds, lift both sides, assemble the core.
 * Put the sandwich under weight, separated by parchment paper.
 * Cure for at least 15 mintues.
-
 
 # Sleeves
 I also decided to make a nice sleeve for the bookmark set. It's basically two pieces of paper glued together. One piece has three glue flaps that are folded. I marked the fold lines to avoid cracking and to provide a precise folding position.
