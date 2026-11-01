@@ -50,7 +50,7 @@ I experimented with a single sheet. And I found it a little too thin. So I tried
 ##### Settings (60W)
 * #00FF00, Engraving: P50, S100 
 * #0000FF, Marking: P8, S100
-* #FF0000, Cutting: P25, S100: *Two passes*
+* #FF0000, Cutting: P22, S100: *Two passes*
 
 # Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
@@ -106,3 +106,15 @@ I found some black sheets in the makerspace. They are about 0.23mm in thickness.
 #### Observations
 * The thickness seems to be just right
 * The paper itself is not dyed through. The cut edges show a little charring.
+
+## Jigs
+
+### Cutting
+
+To avoid burn marks at the bottom, I used the following jig . I used a piece of plywood and cut a channel along the final cut line. Then put the piece on top. This way, the cut line will be in the air. Before the actual cutting, do a dry run without the piece to make sure the whole cut line falls on the honeycomb, not the plywood.
+
+![Cutting Jig](IMG_0717.jpeg)
+
+### Backside alignment
+
+Since I am engraving on both sides, I need to make sure that when I flip the piece, its origin is still aligned. I take a piece of plywood, tape it to the bed, cut a hole exactly the size of the bookmark. Then I drop the piece into the hole, backside up. As long as the plywood has not moved, its origin should be aligned for the backside. If it has moved, it's pretty easy to reposition the origin to the upper left corner of the rectanglular hole.
