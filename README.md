@@ -52,6 +52,15 @@ I experimented with a single sheet. And I found it a little too thin. So I tried
 * #0000FF, Marking: P8, S100
 * #FF0000, Cutting: P22, S100: *Two passes*
 
+#### Two layers of ivory cardstock
+
+Weight unknown. 8 sheets measure 3mm. 
+
+##### Settings (60W)
+* #00FF00, Engraving: P50, S100 
+* #0000FF, Marking: P8, S100
+* #FF0000, Cutting: P28, S100: *Two passes*
+
 # Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
 
