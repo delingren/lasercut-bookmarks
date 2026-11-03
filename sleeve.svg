@@ -25,23 +25,25 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:lockguides="false"
-     inkscape:zoom="1.3259106"
-     inkscape:cx="510.59249"
-     inkscape:cy="255.29625"
-     inkscape:window-width="2068"
-     inkscape:window-height="1268"
+     inkscape:zoom="0.6629553"
+     inkscape:cx="405.75888"
+     inkscape:cy="185.53287"
+     inkscape:window-width="1728"
+     inkscape:window-height="1055"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="black"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <g
-       id="g12">
+       id="g12"
+       inkscape:label="top">
       <path
          id="path8"
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.264583;-inkscape-stroke:hairline"
@@ -72,7 +74,8 @@
     <g
        id="g11"
        transform="matrix(1.1728814,0,0,1.0626959,-5.2507368,4.8474172e-8)"
-       style="vector-effect:non-scaling-stroke;stroke-width:0.23699;stroke-dasharray:none;-inkscape-stroke:hairline">
+       style="display:inline;vector-effect:non-scaling-stroke;stroke-width:0.23699;stroke-dasharray:none;-inkscape-stroke:hairline"
+       inkscape:label="bottom">
       <rect
          style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.23699;stroke-dasharray:none;-inkscape-stroke:hairline"
          id="rect2"
@@ -95,13 +98,20 @@
          d="m 144.60001,4.8474163e-8 a 10,10 0 0 1 -5,8.660254151525837 10,10 0 0 1 -10,-3e-7 10,10 0 0 1 -5,-8.660253851525837 h 10 z"
          transform="matrix(0.85260113,0,0,0.94100298,4.4767841,-4.561434e-8)" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="gold"
+     style="display:none">
     <rect
        style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        id="rect1"
-       width="36.517357"
-       height="107.35703"
-       x="180"
+       width="30"
+       height="120"
+       x="0"
        y="0"
-       ry="3" />
+       ry="3"
+       inkscape:label="backing" />
   </g>
 </svg>

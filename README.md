@@ -61,7 +61,7 @@ Weight unknown. 8 sheets measure 3mm.
 * #0000FF, Marking: P8, S100
 * #FF0000, Cutting: P28, S100: *Two passes*
 
-# Design two
+## Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
 
 I worked with Claude back and forth multiple rounds to nail down the following graphics.
@@ -70,12 +70,12 @@ I worked with Claude back and forth multiple rounds to nail down the following g
 
 I cut two registration holes to help visually align the three sheets; I also marked the four corners to guide cutting later.
 
-## Materials
+### Materials
 * Front and back: [Navy Blue 225 gsm](https://cardstock-warehouse.com/products/navy-blue-lessebo-colours-cardstock)
 * Core: [Gold Metallic 285 gsm](https://cardstock-warehouse.com/products/gold-metallic)
 * Glue: 3M 77
 
-## Process
+### Process
 * Cut the top and bottom sheets.
 * Cut the core sheet.
 * Glue three sheets together, using the resitration holes to align them.
@@ -89,32 +89,37 @@ I cut two registration holes to help visually align the three sheets; I also mar
 * Put the sandwich under weight, separated by parchment paper.
 * Cure for at least 15 mintues.
 
-# Sleeves
+## Sleeves
 I also decided to make a nice sleeve for the bookmark set. It's basically two pieces of paper glued together. One piece has three glue flaps that are folded. I marked the fold lines to avoid cracking and to provide a precise folding position.
 
-## Materials
+### Materials
 
-### Option 1 (fail)
+#### Option 1 (fail)
 Black 400 GSM cardstock. 
 
-#### Settings (60W)
+##### Settings (60W)
 * #0000FF, Marking: P8 S100
 * #FF0000, Cutting: P30 S50
 
-#### Observations
+##### Observations
 * The cardstock is too thick to fold. If I mark too deep, I risk the flap falling off. If I mark too shallow, it'd be too hard to fold. When it does, it gets fuzzy at the fold and it cracks.
 * It's also too stiff. It's impossible to open and insert the bookmarks.
 
-### Option 2 (satisfactory)
-I found some black sheets in the makerspace. They are about 0.23mm in thickness. So I gave it a try.
+#### Option 2 (good)
+Black 80 lb cardstock from Amazon
 
-#### Settings (60W)
-* #0000FF, Marking: P4 S 100
-* #FF0000, Cutting: S18 P 50
+##### Settings (60W)
+* #0000FF, Marking: P5 S100
+* #FF0000, Cutting: P25 P100
 
-#### Observations
+##### Observations
 * The thickness seems to be just right
 * The paper itself is not dyed through. The cut edges show a little charring.
+
+### Materials for backing
+
+##### Settings (60W)
+* #FF0000, Cutting: P15 P100
 
 ## Jigs
 
