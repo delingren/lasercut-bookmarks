@@ -121,6 +121,18 @@ Black 80 lb cardstock from Amazon
 ##### Settings (60W)
 * #FF0000, Cutting: P15 P100
 
+![Sleeve](IMG_0757.jpeg)
+
+### Glue
+
+To glue the backing to the top sheet, I first tried PVA glue. It worked. But there were a few issues:
+
+* It's messy
+* It dries slowly
+* It warps the paper noticeably
+
+Then I tried a Kores glue stick. After a few tries, I managed to do it very clean and the result was perfect.
+
 ## Jigs
 
 ### Cutting

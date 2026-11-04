@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:lockguides="false"
-     inkscape:zoom="0.6629553"
-     inkscape:cx="405.75888"
-     inkscape:cy="185.53287"
+     inkscape:zoom="0.93756038"
+     inkscape:cx="430.37228"
+     inkscape:cy="358.37692"
      inkscape:window-width="1728"
      inkscape:window-height="1055"
      inkscape:window-x="0"
@@ -105,7 +105,7 @@
      inkscape:label="gold"
      style="display:none">
     <rect
-       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#ff0000;stroke-width:0.264584;stroke-dasharray:none;-inkscape-stroke:hairline"
        id="rect1"
        width="30"
        height="120"
@@ -113,5 +113,12 @@
        y="0"
        ry="3"
        inkscape:label="backing" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.1;stroke-dasharray:2, 6;stroke-dashoffset:0"
+       id="rect3"
+       width="18"
+       height="110"
+       x="6"
+       y="5" />
   </g>
 </svg>
