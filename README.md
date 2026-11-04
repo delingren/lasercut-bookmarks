@@ -61,6 +61,11 @@ Weight unknown. 8 sheets measure 3mm.
 * #0000FF, Marking: P8, S100
 * #FF0000, Cutting: P28, S100: *Two passes*
 
+#### Results:
+
+![back](IMG_0758.jpeg)
+![front](IMG_0759.jpeg)
+
 ## Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
 
