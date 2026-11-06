@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.89619809"
-     inkscape:cx="188.01647"
-     inkscape:cy="319.12588"
+     inkscape:zoom="1"
+     inkscape:cx="188.5"
+     inkscape:cy="319"
      inkscape:window-width="1248"
      inkscape:window-height="1055"
-     inkscape:window-x="687"
-     inkscape:window-y="157"
+     inkscape:window-x="480"
+     inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer2" />
   <defs
@@ -40,35 +40,38 @@
      inkscape:label="engrave"
      transform="translate(-24.709789,-3.0458307)"
      style="fill:#00ff00;stroke:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#00ff00;stroke:none;stroke-width:0.264583;-inkscape-stroke:hairline"
-       x="-140.77673"
-       y="38.976307"
-       id="text1"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;fill:#00ff00;stroke:none;stroke-width:0.264583"
+    <g
+       id="g1"
+       transform="rotate(180,49.709789,85.096011)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#00ff00;stroke:none;stroke-width:0.264583;-inkscape-stroke:hairline"
          x="-140.77673"
          y="38.976307"
-         id="tspan2">BOOKMARKS ARE</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;fill:#00ff00;stroke:none;stroke-width:0.264583"
-         x="-140.77673"
-         y="49.559643"
-         id="tspan3">FOR QUITTERS.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.79375px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#00ff00;stroke:none;stroke-width:0.264583;-inkscape-stroke:hairline"
-       x="-91.355324"
-       y="65.603706"
-       id="text5"
-       transform="rotate(-90)"><tspan
-         sodipodi:role="line"
-         id="tspan5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#00ff00;stroke:none;stroke-width:0.264583"
+         id="text1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;fill:#00ff00;stroke:none;stroke-width:0.264583"
+           x="-140.77673"
+           y="38.976307"
+           id="tspan2">BOOKMARKS ARE</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:1.5875px;fill:#00ff00;stroke:none;stroke-width:0.264583"
+           x="-140.77673"
+           y="49.559643"
+           id="tspan3">FOR QUITTERS.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.79375px;writing-mode:lr-tb;direction:ltr;vector-effect:non-scaling-stroke;fill:#00ff00;stroke:none;stroke-width:0.264583;-inkscape-stroke:hairline"
          x="-91.355324"
-         y="65.603706">— OSCAR WILDE</tspan></text>
+         y="65.603706"
+         id="text5"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           x="-91.355324"
+           y="65.603706">— LEO TOLSTOY</tspan></text>
+    </g>
   </g>
   <g
      id="g3"
