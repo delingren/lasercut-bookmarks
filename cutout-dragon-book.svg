@@ -29,11 +29,11 @@
      showguides="true"
      inkscape:zoom="1.4142136"
      inkscape:cx="198.34345"
-     inkscape:cy="373.70592"
+     inkscape:cy="260.56884"
      inkscape:window-width="1714"
      inkscape:window-height="1134"
      inkscape:window-x="1328"
-     inkscape:window-y="278"
+     inkscape:window-y="250"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1"
      inkscape:export-bgcolor="#ffffffff"
@@ -61,7 +61,8 @@
        height="150"
        x="5"
        y="0"
-       inkscape:label="ref-perimeter" /><circle
+       inkscape:label="ref-perimeter"
+       ry="3" /><circle
        style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
        id="path117"
        cx="30"
