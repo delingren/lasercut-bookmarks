@@ -2,20 +2,22 @@
 
 ## Design one
 
-Use a single sheet of material, engrave and mark the graphics on both sides, and cut the perimeter and tassel hole.
+Use a single sheet of material, or two layers laminated together, engrave and mark the graphics on both sides, and cut the perimeter and tassel hole.
+
+### Alignment
+* Use [drafting tape](https://www.amazon.com/dp/B00GHSMNPY) to tape the cut line on both sides to prevent burn marks.
+* Cut the tassle hole and the perimeter; remove the tape carefully.
+* Make a jig using a piece of plywood. Cut out a 50mm x 150mm hole (no rounded corners).
+* Tape the engraving jig to the honeycomb; set origin to upper left of the rectangular hole.
+* Drop the piece into the hole, engrave.
+* Flip and engrave the back side.
+* Be careful that the piece could get hot after engraving. Give it some time to cool down between two sides.
 
 ### Material options
 * Single layer of [cream 400 GSM cardstock](https://www.amazon.com/dp/B0FJR3CL9V).
 * Double layer of the same cardstock.
 * [Maple veneer](https://www.etsy.com/listing/1657356808/cricut-maker-explore-thin-wood-veneer).
 
-### Cutting alignment
-* Engrave one side.
-* Cut out the ribbon hole and the outer perimeter.
-* Make a jig using a piece of cardboard. Cut out a 50mm x 150mm hole.
-* Without moving the jig, put the bookmark in the hole, back side up.
-* Engrave the back side.
-* If the jig has been moved after cutting the hole, I can also reposition the (0, 0) position of the laser head to the upper left corner of the hole.
   
 ### Trial runs
 
