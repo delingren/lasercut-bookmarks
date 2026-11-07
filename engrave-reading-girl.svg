@@ -29,11 +29,11 @@
      showguides="true"
      inkscape:zoom="1.4669945"
      inkscape:cx="125.76734"
-     inkscape:cy="208.58974"
+     inkscape:cy="263.80467"
      inkscape:window-width="1444"
      inkscape:window-height="1055"
-     inkscape:window-x="284"
-     inkscape:window-y="34"
+     inkscape:window-x="1599"
+     inkscape:window-y="229"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg1"
      inkscape:export-bgcolor="#ffffffff"
@@ -49,7 +49,7 @@
        color="#0099e5"
        opacity="0.14901961"
        empspacing="5"
-       enabled="true"
+       enabled="false"
        visible="true" /></sodipodi:namedview><defs
      id="defs1" /><g
      id="g1"
