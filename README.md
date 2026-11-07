@@ -59,7 +59,7 @@ Weight unknown. 8 sheets measure 3mm.
 ##### Settings (60W)
 * #00FF00, Engraving: P50, S100 
 * #0000FF, Marking: P8, S100
-* #FF0000, Cutting: P28, S100: *Two passes*
+* #FF0000, Cutting: P30, S100: *Two passes*
 
 #### Results:
 
