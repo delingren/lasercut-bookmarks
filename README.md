@@ -56,7 +56,7 @@ I experimented with a single sheet. And I found it a little too thin. So I tried
 
 #### Two layers of ivory cardstock
 
-Weight unknown. 8 sheets measure 3mm. 
+Weight unknown. 8 sheets measure 3mm. Should be 300 - 325 GSM, according to Gemini. It has a yellowish cream color, more yellow than typical cream. It's probably marketed as "butter cream" or "banada split".
 
 ##### Settings (60W)
 * #00FF00, Engraving: P50, S100 
