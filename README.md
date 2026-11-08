@@ -17,7 +17,6 @@ Use a single sheet of material, or two layers laminated together, engrave and ma
 * Single layer of [cream 400 GSM cardstock](https://www.amazon.com/dp/B0FJR3CL9V).
 * Double layer of the same cardstock.
 * [Maple veneer](https://www.etsy.com/listing/1657356808/cricut-maker-explore-thin-wood-veneer).
-
   
 ### Trial runs
 
@@ -37,16 +36,7 @@ Done on some cheap 0.4mm chipboard.
 * There was some burning and charring going on. I probably should lower the power and increase the speed. But it should not be a problem for high quality cardstock.
 * The threshold of the arch consists of two long horizontal lines spanning almost the whole width. This weakens the paper. The final product will not be as bad. But I decided to replace the threshold with a shadow to signify that she's grounded.
 
-#### Scrap cardstock
-Found it in the makerspace. So I decided to give it a try. It's about 0.38 mm in thickness. 
-
-##### Settings (60W)
-* #00FF00, Engraving: P50, S100 
-* #0000FF, Marking: P6, S100
-* #FF0000, Cutting: P10, S35
-
 #### Two layers of 400 GSM cardstock
-
 I experimented with a single sheet. And I found it a little too thin. So I tried glueing two sheets together.
 
 ##### Settings (60W)
@@ -54,9 +44,11 @@ I experimented with a single sheet. And I found it a little too thin. So I tried
 * #0000FF, Marking: P8, S100
 * #FF0000, Cutting: P22, S100: *Two passes*
 
-#### Two layers of ivory cardstock
+##### Observations
+Two layers turned out to be too thick. I am also not very happy with the color. I wish it were a little more yellow.
 
-Weight unknown. 8 sheets measure 3mm. Should be 300 - 325 GSM, according to Gemini. It has a yellowish cream color, more yellow than typical cream. It's probably marketed as "butter cream" or "banada split".
+#### Two layers of ivory cardstock
+As luck would have it, I found a bunch in the makerspace with the ideal color. Weight unknown. 8 sheets measure 3mm. Should be 300 - 325 GSM, according to Gemini. It has a yellowish cream color, very much like French vanilla ice cream. It's probably marketed as "butter cream" or "banada split".
 
 ##### Settings (60W)
 * #00FF00, Engraving: P50, S100 
@@ -64,9 +56,12 @@ Weight unknown. 8 sheets measure 3mm. Should be 300 - 325 GSM, according to Gemi
 * #FF0000, Cutting: P30, S100: *Two passes*
 
 #### Results:
+The results are just perfect. I decided to make a bonus fun one too.
 
-![back](IMG_0758.jpeg)
-![front](IMG_0759.jpeg)
+![front](IMG_0773.jpeg)
+![back](IMG_0774.jpeg)
+![bonus-front](IMG_0775.jpeg)
+![bonus-back](IMG_0776.jpeg)
 
 ## Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
@@ -128,10 +123,7 @@ Black 80 lb cardstock from Amazon
 ##### Settings (60W)
 * #FF0000, Cutting: P15 P100
 
-![Sleeve](IMG_0757.jpeg)
-
-### Glue
-
+#### Glue
 To glue the backing to the top sheet, I first tried PVA glue. It worked. But there were a few issues:
 
 * It's messy
@@ -139,6 +131,9 @@ To glue the backing to the top sheet, I first tried PVA glue. It worked. But the
 * It warps the paper noticeably
 
 Then I tried a Kores glue stick. After a few tries, I managed to do it very clean and the result was perfect.
+
+#### Result
+![Sleeve](IMG_0777.jpeg)
 
 ## Jigs
 
