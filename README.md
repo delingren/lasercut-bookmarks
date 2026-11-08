@@ -91,6 +91,22 @@ I cut two registration holes to help visually align the three sheets; I also mar
 * Put the sandwich under weight, separated by parchment paper.
 * Cure for at least 15 mintues.
 
+##### Settings (60W)
+
+Individual sheets:
+* #0000FF, Marking: P8, S100
+* #FF0000, Cutting: P25, S100
+
+Final cut of the laminated sandwich:
+* #FF0000, Cutting: P35, S100: *Two passes*
+
+#### Results
+
+![front](IMG_0778.jpeg)
+![back](IMG_0779.jpeg)
+![bonus-front](IMG_0780.jpeg)
+![bonus-back](IMG_0781.jpeg)
+
 ## Sleeves
 I also decided to make a nice sleeve for the bookmark set. It's basically two pieces of paper glued together. One piece has three glue flaps that are folded. I marked the fold lines to avoid cracking and to provide a precise folding position.
 
