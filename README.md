@@ -66,9 +66,10 @@ The results are just perfect. I decided to make a bonus fun one too.
 ## Design two
 Three cardstock sheets sandwiched together. For this design, we cut out the graphics on top and bottom sheets, glue them to the core, and then cut. So the graphics need to be modified to eliminate islands. E.g. the inside of letters A and O.
 
-I worked with Claude back and forth multiple rounds to nail down the following graphics.
+### Take 1 (unsatisfactory)
+I worked with Claude back and forth multiple rounds to nail down the following graphics. After a lot of fiddling, I decided the design was just too intricate and doesn't work well.
 
-![Design two](IMG_0714.jpeg)
+![Design two, take 1](IMG_0714.jpeg)
 
 I cut two registration holes to help visually align the three sheets; I also marked the four corners to guide cutting later.
 
@@ -100,12 +101,20 @@ Individual sheets:
 Final cut of the laminated sandwich:
 * #FF0000, Cutting: P35, S100: *Two passes*
 
+### Take 2 (perfect)
+Since the first try was not satisfactory, I started from scratch and sourced some different designs from etsy. Fortunately, there are so many fantasy book themed designs to choose from. It was easy enough to find all the elements I was looking for. After many rounds with Claude and some manual editing, the results are just perfect. I am utterly satisfied.
+
 #### Results
 
 ![front](IMG_0778.jpeg)
 ![back](IMG_0779.jpeg)
 ![bonus-front](IMG_0780.jpeg)
 ![bonus-back](IMG_0781.jpeg)
+
+## Ribbons
+I got some [3mm satin ribbons](https://www.amazon.com/dp/B09P9Z6KYZ) from Amazon. And they look so well with the bookmarks:
+
+![ribbons](IMG_0785.jpeg)
 
 ## Sleeves
 I also decided to make a nice sleeve for the bookmark set. It's basically two pieces of paper glued together. One piece has three glue flaps that are folded. I marked the fold lines to avoid cracking and to provide a precise folding position.
